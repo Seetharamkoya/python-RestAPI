@@ -4,7 +4,7 @@ This code `test_api` example demonstrates how to interact with a REST API using 
 
 ## Prerequisites
 * Python (version 3 or above)
-* requests library (install using pip install requests)
+* requests library (install using `pip install requests`)
 
 ## Usage
 1. The script imports the required libraries: `requests` for making HTTP requests and `uuid` for generating UUIDs.
