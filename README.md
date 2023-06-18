@@ -21,3 +21,5 @@ This code `test_api` example demonstrates how to interact with a REST API using 
 
 ## Test
 Run `python3 test_api.py` on the terminal to check the status code and responses.
+
+![Alt Text](https://github.com/Seetharamkoya/python-RestAPI/blob/main/test.PNG)
