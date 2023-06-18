@@ -1,6 +1,6 @@
 # Python REST API Example
 
-This code 'test_api' example demonstrates how to interact with a REST API using the requests library in Python. It performs a sequence of HTTP requests, including `POST`, `PUT`, and `GET` requests, to `create`, `update`, and `retrieve` data from the API.
+This code `test_api` example demonstrates how to interact with a REST API using the requests library in Python. It performs a sequence of HTTP requests, including `POST`, `PUT`, and `GET` requests, to `create`, `update`, and `retrieve` data from the API.
 
 ## Prerequisites
 * Python (version 3 or above)
